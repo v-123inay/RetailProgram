@@ -1,0 +1,38 @@
+[
+    {
+        "customerName": "Smith",
+        "totalRewordPointsGained": 1950,
+        "monthlyRewardDetails": [
+            {
+                "transactionMonth": "JANUARY",
+                "rewordPointsGained": 150
+            },
+            {
+                "transactionMonth": "FEBRUARY",
+                "rewordPointsGained": 450
+            },
+            {
+                "transactionMonth": "MARCH",
+                "rewordPointsGained": 1350
+            }
+        ]
+    },
+    {
+        "customerName": "John",
+        "totalRewordPointsGained": 690,
+        "monthlyRewardDetails": [
+            {
+                "transactionMonth": "JANUARY",
+                "rewordPointsGained": 90
+            },
+            {
+                "transactionMonth": "MARCH",
+                "rewordPointsGained": 550
+            },
+            {
+                "transactionMonth": "FEBRUARY",
+                "rewordPointsGained": 50
+            }
+        ]
+    }
+]

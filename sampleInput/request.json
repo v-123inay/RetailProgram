@@ -1,0 +1,38 @@
+[
+ {
+    "customerName":"John",
+    "transactionAmount":120,
+    "transactionDate":"2019-01-01"
+    
+ },
+ {
+    "customerName":"Smith",
+    "transactionAmount":150,
+    "transactionDate":"2019-01-01"
+    
+ },
+  {
+    "customerName":"John",
+    "transactionAmount":100,
+    "transactionDate":"2019-02-01"
+    
+ },
+ {
+    "customerName":"John",
+    "transactionAmount":350,
+    "transactionDate":"2019-03-01"
+    
+ },
+ {
+    "customerName":"Smith",
+    "transactionAmount":300,
+    "transactionDate":"2019-02-01"
+    
+ },
+  {
+    "customerName":"Smith",
+    "transactionAmount":750,
+    "transactionDate":"2019-03-01"
+    
+ }
+]
